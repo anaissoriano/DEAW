@@ -1,2 +1,2 @@
 # DEAW
-Exercicis Git i GitHub
+Exercicis Git i GitHub.
